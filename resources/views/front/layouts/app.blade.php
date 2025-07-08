@@ -72,5 +72,6 @@
 <script src="{{ asset('assets/js/slick.min.js') }}"></script>
 <script src="{{ asset('assets/js/lightbox.min.js') }}"></script>
 <script src="{{ asset('assets/js/custom.js') }}"></script>
+@yield('customJs')
 </body>
 </html>
